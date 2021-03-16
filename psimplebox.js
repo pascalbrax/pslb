@@ -151,7 +151,7 @@ changeImg(current, dest);
 
 
 var newURL = window.location.protocol + "//" + window.location.host + "" + window.location.pathname;
-httpGet('http://mira.scavenger.ch/?pslb='+ newURL);
+//httpGet('http://mira.scavenger.ch/?pslb='+ newURL);
 });
 
 	function fsheh(){
